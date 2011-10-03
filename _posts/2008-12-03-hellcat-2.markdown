@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 52
+layout: post
+title: Hellcat
+date: "2008-12-03T21:53:55-05:00"
+tags: 
+- 
+- cats
+- demons
+- hell
+wordpress_slug: hellcat-2
+wordpress_url: http://decafbad.com/skein/2008/12/03/hellcat-2/
+---
+
+
+“Billy,” said Jake, rubbing his hand, “that damn cat bit me!”
+
+“Jake,” said Billy, “what the hell? I told you I’d be right back!”
+
+“It looked like I could grab it by the tail. But, it bit me and ran around the bushes and up a tree out back.”
+
+“Jake, I’m telling you that weren’t no cat.”
+
+“What the hell was it then, huh?”
+
+“I don’t know, but cats ain’t got wings. Or glowing red eyes!”
+
+“It sure howled like it was a cat.”
+
+“Well, hell, I’d howl too if I had a tail and you grabbed it like that!”

@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 78
+layout: post
+title: Starhook
+date: "2008-12-03T22:09:28-05:00"
+tags: 
+- 
+- scifi
+- space
+- podcast
+wordpress_slug: starhook
+wordpress_url: http://decafbad.com/skein/2008/12/03/starhook/
+---
+*Update:* I've made an attempt at recording this, playing with the idea of podcasting.  Comments welcome.  I think I rattled the thing off too fast, have problems with my levels, and might have had too much fun with GarageBand clip-art.
+
+<a href='http://decafbad.com/skein/wp-content/uploads/2008/12/starhook.mp3'>starhook</a>
+
+One hundred vapor trails and more struck upward that day, all around the world, all away from the world. Most took advantage of the nightside, streaking straight out into the void. Others less fortunate swung out on circuitous orbits from daylight.
+
+Each was a precious speeding mote, bearing small crews or lone pilots, most stocked with great stores of supplies for an extended journey. Their projected vectors would all meet at a point just a few light-minutes away from home, though none of them sped quite as fast as light itself.
+
+After hours, a handful of vessels met the inbound-travelling frontier of tortured spacetime. It had been made elastic, cast out across the universe. Only one craft breached the safe threshold before the tentacle passed zenith and whiplashed back the way it came, ferrying only that one along with it.
+
+Those closest were torn apart by the wake of the retreating phenomenon. Others who’d been too slow by far were merely strewn about and stranded, left to ponder the lucky winner’s fate.

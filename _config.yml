@@ -1,0 +1,20 @@
+meta:
+    site_title: "decafbad.com/skein"
+    site_subtitle: "/’skAn/ : a loosely coiled length of yarn or thread wound on a reel"
+    site_language: "en"
+    absolute_baseurl: http://decafbad.com/skein
+    domain: decafbad.com
+    author:
+        full_name: Leslie Michael Orchard
+        short_name: lmorchard
+        name: l.m.orchard
+        email: l.m.orchard@pobox.com
+
+tag_dir: tag
+baseurl: /skein
+markdown: rdiscount
+pygments: true
+permalink: /:year/:month/:day/:title
+
+debug: false
+

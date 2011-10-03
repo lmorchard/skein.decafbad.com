@@ -1,0 +1,30 @@
+--- 
+wordpress_id: 17
+layout: post
+title: Hellcat
+date: "2007-03-14T00:40:00-04:00"
+tags: []
+
+wordpress_slug: hellcat
+wordpress_url: http://decafbad.com/skein/2007/03/14/hellcat/
+---
+<i>A writing prompt borrowed from [http://100wordstories.com/2007/03/13/](http://100wordstories.com/2007/03/13/):</i>
+
+<i>...around the bushes and up a tree...</i>
+
+"Billy," said Jake, rubbing his hand, "that damn cat bit me!"
+
+"Jake," said Billy, "what the hell?  I told you I'd be right back!"
+
+"It looked like I could grab it by the tail.  But, it bit me and ran around the bushes and up a tree out back."
+
+"Jake, I'm telling you that weren't no cat."
+
+"What the hell was it then, huh?"
+
+"I don't know, but cats ain't got wings.  Or glowing red eyes!"
+
+"It sure howled like it was a cat."
+
+"Well, hell, I'd howl too if I had a tail and you grabbed it like that!"
+
