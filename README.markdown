@@ -1,7 +1,7 @@
-blog.decafbad.com
+skein.decafbad.com
 -----------------
 
-This is my blog. There are many others like it, but this one is mine.
+This is where I post stories and lies. There are many others like it, but this one is mine.
 
 ## Requirements
 
