@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lonely Timeless Flight"
-tags: [scifi, augmentedreality, spaceflight, relativity]
+tags: [scifi, augmentedreality, spaceflight, relativity, NaFicWriMo]
 published: true
 date: 2012-06-04T11:36:28.866140
 ---
