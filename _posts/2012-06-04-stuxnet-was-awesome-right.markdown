@@ -2,7 +2,7 @@
 layout: post
 title: "Stuxnet Was Awesome, Right?"
 tags: [funny, stuxnet, network, scifi, NaFicWriMo]
-published: false
+published: true
 date: 2012-06-04T13:38:49.973095
 ---
 
